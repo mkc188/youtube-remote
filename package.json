@@ -1,0 +1,21 @@
+{
+  "name": "asgn2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@pc89074.cse.cuhk.edu.hk:s1155035142/asgn2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3",
+    "express-handlebars": "^2.0.0",
+    "socket.io": "^1.3.5"
+  }
+}
